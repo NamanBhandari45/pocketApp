@@ -1,0 +1,35 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+.wrapper{
+    width: 450px;
+    height: 100vh;
+    background: #fff;
+}
+
+h1{
+    color: #000;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0.63px;
+    padding: 20px;
+}
+
+.button{
+    border-radius: 50px;
+    background: #000;
+    width: 280px;
+    height: 47px;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 97.688%; 
+    letter-spacing: 0.54px;
+    text-align: center;
+    padding: 13px;
+    margin-left: 20px;
+    cursor: pointer;
+}

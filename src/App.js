@@ -1,9 +1,13 @@
+import React from "react";
+import Sidebar from "./Components/sidebar/sidebar";
+import Notes from "./Components/notes/notes";
 
 
 function App() {
   return (
-    <div>
-     
+    <div style={{display:"flex"}}>
+     <Sidebar />
+     <Notes />
     </div>
   );
 }
